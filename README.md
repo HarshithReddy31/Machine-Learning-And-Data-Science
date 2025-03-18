@@ -31,4 +31,9 @@ Data Visualization (Matplotlib, Seaborn)
 - Used `seaborn` and `matplotlib` for visualization.
 - The 3D scatter plot provides a better understanding of customer segmentation.
 
+# Author
+👤 Sai Harshith Reddy Gaddamidhi
+🔗 LinkedIn Profile : www.linkedin.com/in/gaddamidhi
+📧 reddysaiharshith3131@gmail.com
+
 
