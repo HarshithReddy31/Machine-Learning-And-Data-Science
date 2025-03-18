@@ -21,8 +21,14 @@ The dataset `Mall_Customers.csv` consists of:
    - Performed clustering with 5 clusters.
    - Visualized clusters using **2D and 3D scatter plots**.
 
+##Technologies Used
+Python (pandas, numpy, matplotlib, seaborn, sklearn)
+Machine Learning (K-Means Clustering)
+Data Visualization (Matplotlib, Seaborn)
+
 ## Results
 - Customers were segmented into five different clusters.
 - Used `seaborn` and `matplotlib` for visualization.
 - The 3D scatter plot provides a better understanding of customer segmentation.
+
 
